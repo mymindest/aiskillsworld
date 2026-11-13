@@ -11,3 +11,7 @@ Independent website concept previews prepared by AI Skills World. These are not 
 ## Netlify
 Static HTML. No build command is required; publish directory is `.`.
 Import this repository into a **new** Netlify site, select branch `main`, leave the build command blank, and set publish directory to `.`. Do not overwrite the existing `pramod-ads` site.
+
+
+## One-click Netlify import
+[Import this GitHub repository into a new Netlify site](https://app.netlify.com/start/deploy?repository=https://github.com/mymindest/aiskillsworld). Authorize GitHub, select the Pramod Ads team, keep the build command blank and publish directory `.`. This creates a separate site; it does not replace `pramod-ads`.
