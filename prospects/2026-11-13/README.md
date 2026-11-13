@@ -10,3 +10,7 @@ These are unsolicited concepts, not official restaurant websites. No affiliation
 
 ## Netlify
 This is static HTML. No build command is required; publish directory is `.`. Import the repository `https://github.com/mymindest/aiskillsworld`, branch `main`, into a new Netlify site. Do not overwrite the existing `pramod-ads` site.
+
+
+## One-click Netlify import
+[Import this GitHub repository into a new Netlify site](https://app.netlify.com/start/deploy?repository=https://github.com/mymindest/aiskillsworld). Authorize GitHub, select the Pramod Ads team, keep the build command blank and publish directory `.`. This creates a separate site; it does not replace `pramod-ads`.
