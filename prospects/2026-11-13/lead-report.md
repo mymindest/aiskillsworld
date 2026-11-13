@@ -35,7 +35,7 @@ Eight new prospects were identified. The immediate Dhanheta–Tan Kuppa search r
 - Area/address: Pintu Nagar, Gaya–Panchananpur–Daudnagar Road, Karhatta, Gaya, Bihar 824209, India
 - Phone: Not verified in public listing
 - Hours: Hours conflict: some public listings show 24 hours; other map hours are inconsistent. Confirm before visiting.
-- Google listing: 3.5/5 · 62 reviews
+- Google rating: not verified in this run. Directory ratings: Justdial 3.4/5 (62 ratings); Yappe 3.5/5 (61 reviews).
 - Category: Indian restaurant · Roadside eatery
 - Positioning: Public reviews mention kulhad tea and breakfast-style food such as puri, jalebi and raita. These are customer mentions, not a confirmed current menu.
 - Menu/service verification: Kulhad tea and a few breakfast items are mentioned in older public reviews. Confirm current menu, timings and prices with the owner.
@@ -126,3 +126,14 @@ Eight new prospects were identified. The immediate Dhanheta–Tan Kuppa search r
 
 ## Publication / outreach safeguards
 All demos are independent concept previews. No messages were sent. No booking or ordering workflow was enabled. Public phone numbers have click-to-call and WhatsApp enquiry links; where no number was verified, the contact controls remain disabled. Menu, prices, photos, hours, delivery and services require owner approval before production publication.
+
+
+## Evidence links
+- Punjab Hotel: [Google Maps search](https://www.google.com/maps/search/?api=1&query=Punjab+Hotel+Q2X4+462+Godam+Dhamitola+Gewalbigha+Gaya+Bihar).
+- Bombay Restaurant: [Google Maps search](https://www.google.com/maps/search/?api=1&query=Bombay+Restaurant+Gaya+College+More+Gaya+Bihar); [Yappe listing](https://yappe.in/bihar/gaya/bombay-restaurant/1496729).
+- Happy Restaurant: [Justdial reviews](https://www.justdial.com/Gaya/Happy-Restaurant/9999PX631-X631-220618215629-A9I6_BZDET/reviews); [Yappe listing](https://yappe.in/bihar/karhatta/happy-restaurant/774859).
+- Gupta Ji Family Restaurant & Bhojnalaya: [Google Maps search](https://www.google.com/maps/search/?api=1&query=Gupta+Ji+Family+Restaurant+Bhojnalaya+Panchanpur+Gaya+Bihar).
+- The Pizza House & Burger: [Google Maps search](https://www.google.com/maps/search/?api=1&query=The+Pizza+House+Burger+Rikabganj+Tekari+Gaya+Bihar); [Magicpin Tekari listings](https://magicpin.in/india/Tekari/Tekari/Garment-Shop/).
+- Hungry Bites Resturant & Cafe: [Google Maps search](https://www.google.com/maps/search/?api=1&query=Hungry+Bites+Resturant+Cafe+Tekari+More+Konch+Gaya+Bihar); [Magicpin local listings](https://magicpin.in/india/Anti/Anti/Garment-Shop/).
+- PanditJi's Restaurant: [Google Maps search](https://www.google.com/maps/search/?api=1&query=PanditJis+Restaurant+Labhra+Panchanpur+Gaya+Bihar); [Magicpin Panchananpur listings](https://magicpin.in/india/Panchananpur/Panchananpur/Garment-Shop/).
+- JAIN Bhojnalaya: [Google Maps search](https://www.google.com/maps/search/?api=1&query=JAIN+Bhojnalaya+Jain+Market+Tekari+Bihar).
