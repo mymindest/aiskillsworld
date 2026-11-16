@@ -100,5 +100,16 @@ GitHub repository `mymindest/aiskillsworld` is connected and has push permission
 
 Netlify is connected and currently lists six projects, but none is a site for these five prospects. The available Netlify connector can inspect projects and create empty projects, but it does not expose file upload, repository-linking or deployment. No new empty sites were created and no live URLs are claimed. Use the Netlify import links in the report after the GitHub commit; each import requires a final confirmation in Netlify.
 
+
+### Individual Netlify import links
+
+These open Netlify's GitHub import flow for the corresponding subfolder. Confirm the import in Netlify; no live URL exists until Netlify completes deployment.
+
+- Mirchi Xpress Cafe: https://app.netlify.com/start/deploy?repository=https://github.com/mymindest/aiskillsworld&create_from_path=prospects/2026-11-16/batch-5/mirchi-xpress-cafe
+- Saffron Roof and Restro: https://app.netlify.com/start/deploy?repository=https://github.com/mymindest/aiskillsworld&create_from_path=prospects/2026-11-16/batch-5/saffron-roof-and-restro
+- The Jail Cafe and Restro: https://app.netlify.com/start/deploy?repository=https://github.com/mymindest/aiskillsworld&create_from_path=prospects/2026-11-16/batch-5/the-jail-cafe-and-restro
+- Bodhi Rooftop Restaurant: https://app.netlify.com/start/deploy?repository=https://github.com/mymindest/aiskillsworld&create_from_path=prospects/2026-11-16/batch-5/bodhi-rooftop-restaurant
+- ACHI Pho & Cafe: https://app.netlify.com/start/deploy?repository=https://github.com/mymindest/aiskillsworld&create_from_path=prospects/2026-11-16/batch-5/achi-pho-and-cafe
+
 ## Outreach policy
 All outreach messages are drafts only. No WhatsApp, Instagram DM, SMS or email was sent. WhatsApp is not linked in the demos because official WhatsApp numbers were not independently verified. No booking, ordering or payment is enabled without owner confirmation.
