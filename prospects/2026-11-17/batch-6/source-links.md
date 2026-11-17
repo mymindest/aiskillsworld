@@ -8,10 +8,6 @@
 - https://wanderlog.com/place/details/2681480/the-french-oven--bakery-and-cafe--restaurant-in-bodhgaya
 - https://www.google.com/maps/search/?api=1&query=The+French+Oven+Bodh+Gaya+Bihar
 
-## Blank Space Cafe
-- https://www.google.com/maps/search/?api=1&query=Blank+Space+Cafe+Vishnupad+Road+Gaya
-- https://restaurant-guru.in/Blank-space-cafe-Gaya
-
 ## Mohammad Restaurant
 - https://wanderlog.com/place/details/2681434/mohammad-restaurant
 - https://www.google.com/maps/search/?api=1&query=Mohammad+Restaurant+Miya+Bigha+Bodh+Gaya
@@ -19,5 +15,9 @@
 ## Loyag Rooftop Restaurant & Cafe
 - https://yappe.in/bihar/bodh-gaya/loyag-restaurant-bodhgaya/757655
 - https://wanderlog.com/place/details/7954175/loyag-rooftop-restaurant-and-cafe-bodhgaya
-- https://wanderlog.com/place/details/7954175/loyag-rooftop-restaurant-and-cafe-bodhgaya
 - https://www.google.com/maps/search/?api=1&query=Loyag+Rooftop+Restaurant+Cafe+Bodh+Gaya
+
+## Lobsang Mon Restaurant Arunachal
+- https://wanderlog.com/place/details/10919471/lobsang-mon-restaurant-arunachal
+- https://www.justdial.com/Bodhgaya/Lobsang-Mon-Restaurant-Bhanumati-Road/9999PX631-X631-220617213839-D8V2_BZDET/amp
+- https://yappe.in/bihar/bodh-gaya/lobsang-mon-restaurant-arunachal/757775
