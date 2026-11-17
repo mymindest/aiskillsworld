@@ -17,6 +17,6 @@
 - https://www.google.com/maps/search/?api=1&query=Mohammad+Restaurant+Miya+Bigha+Bodh+Gaya
 
 ## Loyag Rooftop Restaurant & Cafe
-- https://yappe.in/bihar/bodh-gaya/loyag-restaurant-bodhgaya/757655
+- https://wanderlog.com/place/details/7954175/loyag-rooftop-restaurant-and-cafe-bodhgaya
 - https://wanderlog.com/place/details/7954175/loyag-rooftop-restaurant-and-cafe-bodhgaya
 - https://www.google.com/maps/search/?api=1&query=Loyag+Rooftop+Restaurant+Cafe+Bodh+Gaya
