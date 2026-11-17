@@ -1,0 +1,21 @@
+{
+  "slug": "mohammad-restaurant",
+  "name": "Mohammad Restaurant",
+  "category": "Restaurant · Indian · Tibetan / Himalayan · Multi-cuisine",
+  "address": "Miya Bigha, Bodh Gaya, Bihar 824231, India",
+  "phone": "+91 99340 22691",
+  "hours": "Daily 7:00 AM–10:00 PM (current business/aggregator listings)",
+  "rating": "Google-derived listing 4.1/5 · 439 reviews (Wanderlog); Tripadvisor 4.3/5 · 111 reviews.",
+  "position": "A traveller-oriented restaurant with a broad Indian and Tibetan/Himalayan menu.",
+  "menu": "Public references mention momos, chow mein, thukpa, curries, paneer dishes, lassi and fresh juices. Not an owner-approved current menu.",
+  "audit": "Wanderlog lists https://mohammad-restaurant.pages.dev/ as the website, but the URL could not be opened during this audit. No functional direct order checkout or booking flow was verified. Treat the listed site as unverified/inaccessible.",
+  "confirm": "Confirm whether the pages.dev URL is owner-managed, current menu/prices, exact entrance/landmark, hours, official social accounts, photos and direct order/delivery process.",
+  "map": "https://www.google.com/maps/search/?api=1&query=Mohammad+Restaurant+Miya+Bigha+Bodh+Gaya+Bihar",
+  "theme": "traveller",
+  "accent": "#c98a4b",
+  "confidence": "Medium",
+  "sources": [
+    "https://wanderlog.com/place/details/2681434/mohammad-restaurant",
+    "https://www.google.com/maps/search/?api=1&query=Mohammad+Restaurant+Miya+Bigha+Bodh+Gaya"
+  ]
+}
