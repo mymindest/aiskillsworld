@@ -1,13 +1,13 @@
 # Gaya Restaurant Prospect Report — 17 November 2026
 
 ## Search scope and qualification
-A user-centred search was attempted using the available approximate-location reference, but the returned businesses were geographically inconsistent. The search was then narrowed to Gaya and Bodh Gaya, Bihar. Five prospects below are new relative to the 13–16 November reports. Bodh Gaya leads are not claimed to be the five nearest to Dhanheta/Tan Kuppa.
+A user-centred search was attempted using the available approximate-location reference, but the returned businesses were geographically inconsistent. The search was then narrowed to Gaya and Bodh Gaya, Bihar. These five prospects are new relative to the 13–16 November reports. They are not claimed to be the five nearest to Dhanheta/Tan Kuppa.
 
-The list excludes businesses with working official websites or active online ordering where found. Third-party directory pages do not count as official websites. Where a directory advertises delivery/reservations but no actual direct workflow could be verified, that limitation is stated. No owner has approved these concepts.
+The list excludes businesses with working official websites or active online ordering where found. Third-party directory pages do not count as official websites. Where a website URL is listed but inaccessible, or ratings/hours differ across directories, that uncertainty is stated. No owner has approved these concepts.
 
 ## 1. Alice in Gaya Cafe & Bistro
 - Category: Cafe · Bistro · Asian · Thai · Chinese · Pizza
-- Address: Araya Complex, Bodh Gaya, Bihar 824231, India
+- Address: Araya Complex, Bodh Gaya 824231 India
 - Public phone: +91 72960 28888
 - Hours: Daily 9:00 AM–9:00 PM (Tripadvisor listing)
 - Rating: Tripadvisor 4.1/5 · 21 reviews; Justdial 4.0/5 · 41 ratings; Google not independently confirmed.
@@ -37,23 +37,7 @@ The list excludes businesses with working official websites or active online ord
 - Evidence: https://wanderlog.com/place/details/2681480/the-french-oven--bakery-and-cafe--restaurant-in-bodhgaya; https://www.google.com/maps/search/?api=1&query=The+French+Oven+Bodh+Gaya+Bihar
 - Outreach draft: See `outreach-drafts.md`.
 
-## 3. Blank Space Cafe
-- Category: Coffee shop · Tea / Chai
-- Address: Vishnupad Road, Chand Chaura, Gaya, Bihar 823001, India
-- Public phone: Not independently found
-- Hours: Mon–Sat 5:00 AM–11:00 PM; Sunday 5:00 AM–8:00 PM (public listing; confirm)
-- Rating: Google business listing 4.8/5 · 18 reviews.
-- Positioning: A small, early-opening tea and coffee stop on Vishnupad Road.
-- Menu references: Review/listing references repeatedly mention chai/tea and coffee. No owner-approved menu or prices were found; wider food options are unverified.
-- Website audit: No official website, direct online ordering page or booking workflow surfaced. No verified official social profile or public phone number was found.
-- Official social/ordering links: None independently verified.
-- Owner confirmation: Confirm business name styling, exact storefront/landmark, current phone and WhatsApp, hours, full menu, prices, social links and photos.
-- Confidence: Low–Medium (small listing footprint; no phone)
-- Demo file: `blank-space-cafe/index.html`
-- Evidence: https://www.google.com/maps/search/?api=1&query=Blank+Space+Cafe+Vishnupad+Road+Gaya; https://restaurant-guru.in/Blank-space-cafe-Gaya
-- Outreach draft: See `outreach-drafts.md`.
-
-## 4. Mohammad Restaurant
+## 3. Mohammad Restaurant
 - Category: Restaurant · Indian · Tibetan / Himalayan · Multi-cuisine
 - Address: Miya Bigha, Bodh Gaya, Bihar 824231, India
 - Public phone: +91 99340 22691
@@ -69,11 +53,11 @@ The list excludes businesses with working official websites or active online ord
 - Evidence: https://wanderlog.com/place/details/2681434/mohammad-restaurant; https://www.google.com/maps/search/?api=1&query=Mohammad+Restaurant+Miya+Bigha+Bodh+Gaya
 - Outreach draft: See `outreach-drafts.md`.
 
-## 5. Loyag Rooftop Restaurant & Cafe
+## 4. Loyag Rooftop Restaurant & Cafe
 - Category: Rooftop restaurant · Tibetan · Asian · Indian · Cafe
 - Address: Top floor, Khair House Building, behind French Oven, Bodh Gaya, Bihar 824231, India
 - Public phone: +91 99721 96490
-- Hours: Daily 6:00 AM–9:00 PM (Wanderlog/Yappe listings; another directory differs)
+- Hours: Daily 6:00 AM–9:00 PM (Wanderlog listing)
 - Rating: Google-derived listing via Wanderlog 4.6/5 · 71 reviews; Tripadvisor 5.0/5 · 1 review.
 - Positioning: A modest rooftop café/restaurant in the Khair House building, with Tibetan and Indian food references.
 - Menu references: Public review references include veg chow mein, tingmo, oat porridge, bubble tea and butter tea. Not a verified current menu.
@@ -85,16 +69,32 @@ The list excludes businesses with working official websites or active online ord
 - Evidence: https://yappe.in/bihar/bodh-gaya/loyag-restaurant-bodhgaya/757655; https://wanderlog.com/place/details/7954175/loyag-rooftop-restaurant-and-cafe-bodhgaya; https://www.google.com/maps/search/?api=1&query=Loyag+Rooftop+Restaurant+Cafe+Bodh+Gaya
 - Outreach draft: See `outreach-drafts.md`.
 
+## 5. Lobsang Mon Restaurant Arunachal
+- Category: Tibetan restaurant
+- Address: MXXQ+56V, Kalachakra Maidan Road, near, Bodh Gaya, Bihar 824231, India
+- Public phone: Not independently found
+- Hours: No dependable current hours were published in the listings checked.
+- Rating: Current local business listing 4.5/5 · 34 reviews; Wanderlog Google snapshot 4.6/5 · 29 reviews (counts vary by source).
+- Positioning: A small Tibetan restaurant known in public reviews for momos, thukpa and a calm, quiet setting.
+- Menu references: Public review references include momos, thukpa, homemade noodles and laphing. No owner-approved current menu or prices were found.
+- Website audit: Justdial shows “Website + Add Website” and no official website URL. No official social profile or direct online ordering/booking workflow surfaced.
+- Official social/ordering links: None independently verified.
+- Owner confirmation: Current phone/WhatsApp, exact entrance, current opening hours, full menu/prices, official social links, approved photos and whether orders/reservations are accepted directly.
+- Confidence: Medium–Low (no public phone or reliable hours)
+- Demo file: `lobsang-mon-restaurant-arunachal/index.html`
+- Evidence: https://wanderlog.com/place/details/10919471/lobsang-mon-restaurant-arunachal; https://www.justdial.com/Bodhgaya/Lobsang-Mon-Restaurant-Bhanumati-Road/9999PX631-X631-220617213839-D8V2_BZDET/amp; https://yappe.in/bihar/bodh-gaya/lobsang-mon-restaurant-arunachal/757775
+- Outreach draft: See `outreach-drafts.md`.
+
 ## Excluded / not promoted
 - Raasta Cafe: active Swiggy ordering page surfaced; excluded.
 - Nirvana The Veg Cafe: Hotel Maya Heritage has an active official website describing its restaurant/café facilities; excluded.
 - MOKAKiNO: official Google Sites brand pages and a Zomato online-order page surfaced; excluded.
-- Hungrella Restaurant: active Swiggy/Zomato ordering listings surfaced; excluded.
-- The Rasoi Rishta Cafe: third-party AlwaysDial listing claims online booking; no independent way to confirm whether its booking flow is actually usable, so not included.
+- The Rasoi Rishta Cafe: a third-party AlwaysDial listing claims online booking; no independent way to confirm whether its booking flow is usable, so not included.
 - Maya Restaurant: Sakura House website is listed as its website; excluded pending a more granular site audit.
-- Alice in Gaya: Tripadvisor lists delivery/reservations as features, but no direct checkout/booking URL was verified. If the owner confirms an active platform order page, remove it from the lead list.
+- Lotus Restaurant: a Swiggy menu/order page exists but currently says the outlet is not accepting orders because of an expired food-safety licence. Not treated as a usable current ordering workflow; excluded because the compliance issue should be resolved before pitching a site.
+- Blank Space Cafe: kept off the qualified list because the listing footprint is small, it is categorised as a coffee shop rather than a full restaurant, and no public phone was found.
 
 ## Deployment
-GitHub files are prepared under `prospects/2026-11-17/batch-6/`. Netlify account is connected, but no matching Gaya project was found and available Netlify actions can list/create empty projects but cannot upload a folder or start a deploy. No live URL is claimed. Import the GitHub repository subfolder in Netlify with no build command and publish directory `prospects/2026-11-17/batch-6`, or deploy the folder manually using Netlify Drop.
+GitHub files are prepared under `prospects/2026-11-17/batch-6/`. Netlify account is connected, but no matching Gaya project was found and the connected workflow can list/create empty projects but cannot upload a folder or start a deploy. No live URL is claimed. Import the GitHub repository subfolder in Netlify with no build command and publish directory `prospects/2026-11-17/batch-6`, or deploy the folder manually using Netlify Drop.
 
 No outreach was sent.
