@@ -1,0 +1,21 @@
+{
+  "slug": "the-french-oven",
+  "name": "The French Oven",
+  "category": "Bakery · Cafe · Coffee",
+  "address": "Bodhgaya Shopping Complex, Node-1, Shop No. 116, Mahabodhi Temple Road, Bodh Gaya, Bihar 824231, India",
+  "phone": "",
+  "hours": "Daily 7:00 AM–10:00 PM (current business listing; confirm)",
+  "rating": "Google business listing 4.7/5 · 35 reviews; aggregator counts differ.",
+  "position": "A compact bakery-café concept for espresso-style coffee and cakes.",
+  "menu": "Public review mentions include espresso, cappuccino, Americano/latte, carrot cake, banana cake and other baked items. Availability and current menu are not owner-confirmed.",
+  "audit": "A listing points to https://sevenmonkscafe.business.site/ (legacy URL name differs); the URL could not be opened during this audit. No working official website or direct online ordering/booking page was verified.",
+  "confirm": "Confirm public phone, whether the legacy Seven Monks URL belongs to this business, current hours, baked goods/prices, official social URLs, photos and enquiry destination.",
+  "map": "https://www.google.com/maps/search/?api=1&query=The+French+Oven+Bodhgaya+Shopping+Complex+Node+1+Shop+116+Bodh+Gaya",
+  "theme": "bakery",
+  "accent": "#c99b61",
+  "confidence": "Medium",
+  "sources": [
+    "https://wanderlog.com/place/details/2681480/the-french-oven--bakery-and-cafe--restaurant-in-bodhgaya",
+    "https://www.google.com/maps/search/?api=1&query=The+French+Oven+Bodh+Gaya+Bihar"
+  ]
+}
