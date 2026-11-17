@@ -1,0 +1,21 @@
+{
+  "slug": "blank-space-cafe",
+  "name": "Blank Space Cafe",
+  "category": "Coffee shop · Tea / Chai",
+  "address": "Vishnupad Road, Chand Chaura, Gaya, Bihar 823001, India",
+  "phone": "",
+  "hours": "Mon–Sat 5:00 AM–11:00 PM; Sunday 5:00 AM–8:00 PM (public listing; confirm)",
+  "rating": "Google business listing 4.8/5 · 18 reviews.",
+  "position": "A small, early-opening tea and coffee stop on Vishnupad Road.",
+  "menu": "Review/listing references repeatedly mention chai/tea and coffee. No owner-approved menu or prices were found; wider food options are unverified.",
+  "audit": "No official website, direct online ordering page or booking workflow surfaced. No verified official social profile or public phone number was found.",
+  "confirm": "Confirm business name styling, exact storefront/landmark, current phone and WhatsApp, hours, full menu, prices, social links and photos.",
+  "map": "https://www.google.com/maps/search/?api=1&query=Blank+Space+Cafe+Vishnupad+Road+Chand+Chaura+Gaya+Bihar",
+  "theme": "chai",
+  "accent": "#d6a75e",
+  "confidence": "Low–Medium (small listing footprint; no phone)",
+  "sources": [
+    "https://www.google.com/maps/search/?api=1&query=Blank+Space+Cafe+Vishnupad+Road+Gaya",
+    "https://restaurant-guru.in/Blank-space-cafe-Gaya"
+  ]
+}
