@@ -1,0 +1,21 @@
+{
+  "slug": "alice-in-gaya-cafe-bistro",
+  "name": "Alice in Gaya Cafe & Bistro",
+  "category": "Cafe · Bistro · Asian · Thai · Chinese · Pizza",
+  "address": "Araya Complex, Bodh Gaya, Bihar 824231, India",
+  "phone": "+91 72960 28888",
+  "hours": "Daily 9:00 AM–9:00 PM (Tripadvisor listing)",
+  "rating": "Tripadvisor 4.1/5 · 21 reviews; Justdial 4.0/5 · 41 ratings; Google not independently confirmed.",
+  "position": "A quiet bistro stop near Bodh Gaya’s temple area.",
+  "menu": "Public listings classify the venue as Chinese, Thai, Asian, pizza and café. Reviews mention coffee, cakes/desserts and a breakfast set; these are not an owner-approved current menu.",
+  "audit": "No destination URL was exposed for the Tripadvisor Website field, and no official domain or direct online checkout/booking page was verified. Tripadvisor lists delivery and reservations as features, but no usable direct workflow was found.",
+  "confirm": "Confirm operating status, exact entrance, current menu/prices, official website/social URLs, photos, WhatsApp number, and whether delivery/reservations are direct or platform-based.",
+  "map": "https://www.google.com/maps/search/?api=1&query=Alice+in+Gaya+Cafe+and+Bistro+Araya+Complex+Bodh+Gaya+Bihar",
+  "theme": "bistro",
+  "accent": "#d88c68",
+  "confidence": "Medium",
+  "sources": [
+    "https://www.tripadvisor.in/Restaurant_Review-g424922-d11947227-Reviews-Alice_in_Gaya_Cafe_Bistro-Bodh_Gaya_Gaya_District_Bihar.html",
+    "https://www.justdial.com/Bodhgaya/Alice-In-Gaya-Cafe-Bristro-Miya-Bigha/9999PX631-X631-170609213441-I8I7_BZDET"
+  ]
+}
