@@ -74,7 +74,7 @@ The list excludes businesses with working official websites or active online ord
 - Address: Top floor, Khair House Building, behind French Oven, Bodh Gaya, Bihar 824231, India
 - Public phone: +91 99721 96490
 - Hours: Daily 6:00 AM–9:00 PM (Wanderlog/Yappe listings; another directory differs)
-- Rating: Yappe public listing 4.6/5 · 62 reviews; Google rating not independently confirmed.
+- Rating: Google-derived listing via Wanderlog 4.6/5 · 71 reviews; Tripadvisor 5.0/5 · 1 review.
 - Positioning: A modest rooftop café/restaurant in the Khair House building, with Tibetan and Indian food references.
 - Menu references: Public review references include veg chow mein, tingmo, oat porridge, bubble tea and butter tea. Not a verified current menu.
 - Website audit: Yappe lists https://loyag-tibetan-restaurant.business.si/ as a website, but it could not be opened during this audit. No working official website or direct online ordering/booking workflow was verified.
