@@ -7,4 +7,4 @@ Each page is mobile-responsive and includes SEO metadata, noindex/nofollow, keyb
 All menu references are marked as public listing/review mentions, not owner-approved menus. Confirm all business details and obtain owner approval before publication.
 
 ## Netlify
-Static site. No build command required. For one combined deployment, publish directory . For separate sites, import each subfolder as the base/publish directory. Live URLs remain pending until Netlify confirms successful deployments.
+Static site. No build command required. For one combined deployment, set base directory to prospects/2026-11-17/batch-6 and publish directory to . For separate sites, use each demo folder as the base directory and publish directory . Live URLs remain pending until Netlify confirms successful deployments.
