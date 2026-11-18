@@ -16,7 +16,7 @@ A prospect qualified when no owner-controlled official website or usable order/b
 - Distinctive positioning: Public business data describes a jungle-themed dining concept on Bela–Panchanpur Road.
 - Menu references: Public review/listing references mention chicken biryani, tandoori dishes, aloo do pyaza and Chinese platters. Not an owner-approved current menu.
 - Website/social/ordering audit: No owner-controlled official website or usable ordering/booking checkout surfaced. Justdial is a directory profile with a WhatsApp option but no revealed number or direct checkout. No official social profile was verified.
-- Confidence: Medium–High for identity, address, public phone, Google-derived rating and positioning; Medium for current hours/menu and proving website absence..
+- Confidence: Medium–High for identity, address, public phone, Google-derived rating and positioning; Medium for current hours/menu and proving website absence.
 - Owner confirmation required: Confirm name spelling, owner-controlled website/social handles, current phone and WhatsApp status, hours, menu/prices, entrance, approved photos, delivery and reservation workflow.
 - Demo: `foodie-kavya-the-jungal-restaurant/index.html`
 - Evidence: https://www.justdial.com/Gaya/Restaurants-in-Panchanpur/nct-10408936; https://www.google.com/maps/search/?api=1&query=Foodie+Kavya+The+Jungal+Restaurant+Panchanpur+Gaya
@@ -32,7 +32,7 @@ A prospect qualified when no owner-controlled official website or usable order/b
 - Distinctive positioning: A local dhaba opposite the Central University main gate, serving road users, students and staff in the area.
 - Menu references: Third-party product pages list Paneer Paratha and Sheer Khurma. Not an owner-approved current menu; reconfirm before display.
 - Website/social/ordering audit: No official website or usable ordering/booking checkout surfaced. Arshsquare pages are third-party product detail listings, not a verified order/checkout flow. No official social profile was found.
-- Confidence: Medium for location, primary phone, hours and Google-derived rating (only 3 reviews); Low–Medium for menu and alternate directory contact..
+- Confidence: Medium for location, primary phone, hours and Google-derived rating (only 3 reviews); Low–Medium for menu and alternate directory contact.
 - Owner confirmation required: Confirm primary phone, alternate number, WhatsApp number, menu/prices, entrance, hours, seating, approved photos and takeaway/delivery process.
 - Demo: `jai-hind-dhaba/index.html`
 - Evidence: https://www.arshsquare.com/products-details/jai-hind-dhaba/paneer-paratha/gaya; https://www.arshsquare.com/products-details/jai-hind-dhaba/sheer-khurma/gaya; https://www.google.com/maps/search/?api=1&query=Jai+Hind+Dhaba+Dariyapur+Gaya+Bihar
@@ -48,7 +48,7 @@ A prospect qualified when no owner-controlled official website or usable order/b
 - Distinctive positioning: A restaurant/café at NH-120 Gaya–Goh Road around Tekari More, a practical landmark for local visitors and passing traffic.
 - Menu references: No current item-level menu was independently verified. Cuisine is listed as Indian restaurant; menu, specialities and prices remain placeholders.
 - Website/social/ordering audit: No matching official website, official social profile or usable ordering/booking page surfaced. A similarly named HungryBite website found in search is for Raisungra Bazar, Salepur, not this Konch business.
-- Confidence: Medium–High for identity, address, public phone, hours and Google-derived rating; Medium for proving website/social absence..
+- Confidence: Medium–High for identity, address, public phone, hours and Google-derived rating; Medium for proving website/social absence.
 - Owner confirmation required: Confirm brand spelling, phone and WhatsApp, menu/prices, map pin/entrance, hours, approved photos and delivery/reservation workflow.
 - Demo: `hungry-bites-restaurant-cafe-konch/index.html`
 - Evidence: https://www.google.com/maps/search/?api=1&query=Hungry+Bites+Resturant+Cafe+Konch+Gaya
@@ -64,7 +64,7 @@ A prospect qualified when no owner-controlled official website or usable order/b
 - Distinctive positioning: A restaurant on the Panchanpur–Tekari Main Road. Justdial lists live music as a feature; schedule and availability are not confirmed.
 - Menu references: No owner-approved menu or reliable item-level menu was found. Menu and prices remain confirmation placeholders.
 - Website/social/ordering audit: No matching official website, official social profile or usable online ordering/booking page surfaced. Justdial is a directory profile, not a business-owned website; it lists live music but no direct checkout. Other-city Food Paradise listings were excluded as false matches.
-- Confidence: Medium for name, locality, Justdial rating and listed live-music feature; Low–Medium for hours, menu, phone and proving website absence..
+- Confidence: Medium for name, locality, Justdial rating and listed live-music feature; Low–Medium for hours, menu, phone and proving website absence.
 - Owner confirmation required: Confirm exact map pin, public phone/WhatsApp, current hours, live-music schedule, cuisine/menu/prices, seating/parking and delivery/reservation process.
 - Demo: `food-paradise-panchanpur-tekari/index.html`
 - Evidence: https://www.justdial.com/Gaya/Restaurants-in-Panchanpur/nct-10408936; https://www.justdial.com/Gaya/Restaurants-Group-Friendly-in-Panchanpur/nct-10408936-att-pg7; https://www.google.com/maps/search/?api=1&query=Food+Paradise+Tekari+Gaya+Bihar
@@ -80,7 +80,7 @@ A prospect qualified when no owner-controlled official website or usable order/b
 - Distinctive positioning: A simple roadside vegetarian dhaba/snack stop on Guraru Station Road. Public reviews describe it as a morning nasta stop.
 - Menu references: Public review references mention samosa, samosa chaat, jalebi, kachori, puri, litti and dahi bada. Not an owner-approved menu; availability may vary.
 - Website/social/ordering audit: No owner-controlled official website, official social profile or usable online ordering/booking page surfaced. The public footprint found is a business listing rather than a dedicated site.
-- Confidence: Medium for identity, location, Google-derived rating, hours and vegetarian dhaba positioning; Low–Medium for current menu, phone and proving website absence..
+- Confidence: Medium for identity, location, Google-derived rating, hours and vegetarian dhaba positioning; Low–Medium for current menu, phone and proving website absence.
 - Owner confirmation required: Confirm same location/pin, public phone/WhatsApp, hours, seating, snack availability/prices, approved photos and whether phone orders are accepted.
 - Demo: `kallu-ka-dhaba-guraru/index.html`
 - Evidence: https://www.google.com/maps/search/?api=1&query=Kallu+Ka+Dhaba+Guraru+Station+Road+Gaya+Bihar
