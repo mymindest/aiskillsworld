@@ -18,5 +18,6 @@
   "eyebrow": "GURARU STATION ROAD",
   "headline": "A familiar stop for morning nasta.",
   "subhead": "A warm, simple vegetarian dhaba concept for the Guraru Station Road location.",
-  "accent": "#e5a35e"
+  "accent": "#e5a35e",
+  "confidence": "Medium for identity, location, Google-derived rating, hours and vegetarian dhaba positioning; Low–Medium for current menu, phone and proving website absence."
 }
