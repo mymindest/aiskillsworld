@@ -20,5 +20,6 @@
   "eyebrow": "PANCHANPUR–TEKARI MAIN ROAD",
   "headline": "Your next stop on the Tekari road.",
   "subhead": "A restaurant concept with space for owner-approved menu, location and event details.",
-  "accent": "#e8bb69"
+  "accent": "#e8bb69",
+  "confidence": "Medium for name, locality, Justdial rating and listed live-music feature; Low–Medium for hours, menu, phone and proving website absence."
 }
