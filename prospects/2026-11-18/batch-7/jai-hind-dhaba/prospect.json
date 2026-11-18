@@ -20,5 +20,6 @@
   "eyebrow": "DARIYAPUR · GAYA–PANCHANANPUR ROAD",
   "headline": "A local stop, easy to find.",
   "subhead": "A roadside-dhaba concept focused on clear directions and contact information.",
-  "accent": "#e6a35c"
+  "accent": "#e6a35c",
+  "confidence": "Medium for location, primary phone, hours and Google-derived rating (only 3 reviews); Low–Medium for menu and alternate directory contact."
 }
