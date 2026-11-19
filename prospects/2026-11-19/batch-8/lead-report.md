@@ -15,7 +15,7 @@ A prospect qualified when exact-name searches did not surface a complete owner-c
 - Hours: Google-derived business listing: 8:00 AM–11:00 PM daily. Bharatibiz lists 10:00 AM–10:00 PM; confirm directly.
 - Rating: Google business listing: 4.0/5 · 288 reviews
 - Positioning: A local dhaba-style restaurant in the Sikahar/Raslpur area. Public review snippets mention non-vegetarian dishes and straightforward dhaba-style meals.
-- Menu/services: Public review references include chicken, fish, meat, tawa roti, paneer and rice. These are review mentions, not an owner-approved current menu. Some public reviews caution that the late-evening ambience may not suit families; this concept avoids claiming family-friendly positioning.
+- Menu/services: Public review references include chicken, fish, meat, tawa roti, paneer and rice. These are review mentions, not an owner-approved current menu. Some public reviews caution that the late-evening ambience may not suit families, and a few raise hygiene concerns. This is a reputation risk to verify with the owner; the concept avoids claiming family-friendly positioning.
 - Website audit: Exact-name searches surfaced business/directory listings, not a complete owner-controlled website. Bharatibiz lists delivery by phone, but no usable online ordering or booking checkout was found. No official social profile was independently verified.
 - Official links: undefined
 - Confidence: Medium–High for identity, address, phone and Google rating; Medium for hours/menu and absence of an official site.
