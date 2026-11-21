@@ -1,0 +1,20 @@
+{
+  "slug": "small-cafe",
+  "name": "Small Cafe",
+  "category": "Restaurant / cafe listing",
+  "address": "01, Lakhibagh Road, Lakhibag, Manpur, Gaya, Bihar 823003, India",
+  "phone": "+916205668690",
+  "phone_display": "+91 62056 68690",
+  "rating": "5.0/5 · 1 Google review (22 Apr 2025)",
+  "hours": "10:00 AM–10:00 PM daily (Google listing).",
+  "position": "Small neighbourhood cafe/restaurant listing on Lakhibagh Road. Cuisine, menu, seating and service mode are not reliably verified.",
+  "menu_note": "No item-level menu or cuisine details verified. Owner to provide approved menu and prices.",
+  "theme": "Minimal neighbourhood cafe",
+  "color": "#315d4d",
+  "accent": "#d6b77b",
+  "map_query": "Small Cafe 01 Lakhibagh Road Manpur Gaya Bihar",
+  "confidence": "Medium for listing identity, address, phone and hours; low for menu/positioning.",
+  "officialWebsite": "Not verified",
+  "officialSocial": "Not verified",
+  "ordering": "No usable direct ordering checkout verified"
+}
