@@ -1,0 +1,28 @@
+{
+  "slug": "tript-restaurant-rupin",
+  "name": "Tript Restaurant",
+  "category": "North Indian restaurant",
+  "address": "J6J9+3WC, Rupin, Fatehpur, Gaya, Bihar 824232, India",
+  "phone": "",
+  "hours": "Daily 9:00 AM–10:00 PM (Google business listing; verify before visiting)",
+  "rating": "4.3/5",
+  "reviews": "195",
+  "other": "Justdial snapshot: 4.2/5 · 168 ratings",
+  "position": "A local dine-in restaurant listed in the Rupin / Fatehpur area. Public review summaries mention biryani and chilli chicken, but these are not a current owner-approved menu.",
+  "menu": "Current menu, dishes, dietary options and prices have not been verified. Add only after owner approval.",
+  "audit": "Exact-name searches surfaced Google Maps and Justdial directory/review listings, but no owner-controlled complete website or usable direct online ordering/booking checkout. No official social profile was independently verified.",
+  "confirm": "Confirm phone/WhatsApp, current menu and prices, hours, dine-in/takeaway/delivery, exact entrance/map pin and approved photos.",
+  "map": "Tript Restaurant J6J9+3WC Rupin Fatehpur Gaya Bihar",
+  "theme": [
+    "#171b1b",
+    "#202827",
+    "#2a3430",
+    "#e5a54c",
+    "#f1d7a6",
+    "#f8f3e9",
+    "#b8c1b9",
+    "radial-gradient(circle at 78% 22%, rgba(229,165,76,.25), transparent 30%), linear-gradient(135deg,#17201e,#3c3227)"
+  ],
+  "initial": "TR",
+  "tagline": "A neighbourhood dining concept for Rupin"
+}
