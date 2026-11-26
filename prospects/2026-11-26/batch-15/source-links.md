@@ -1,15 +1,16 @@
 # Source links — 26 November 2026 (Batch 15)
 
-## Listing cross-checks
-- Justdial Wazirganj restaurant directory (opened and reviewed; includes Mahadev Family Restaurant, Food King A Family Restaurant and Bharti Food Palaza): https://www.justdial.com/Gaya/Restaurants-in-Wazirganj/nct-10408936
-- OneFiveNine Wazirganj restaurant directory (opened; older local discovery page, not used for current hours): https://www.onefivenine.com/india/Listing/Town/restaurants/Gaya/Wazirganj
-- AlwaysDial Bharti Food Palaza profile: https://alwaysdial.com/bharti-food-palaza (search result surfaced; direct open returned 403, so not treated as a verified functional booking flow or official website).
+## Local discovery / listing cross-checks
+- Justdial Wazirganj restaurant directory (opened; includes Food King A Family Restaurant and Bharti Food Palaza): https://www.justdial.com/Gaya/Restaurants-in-Wazirganj/nct-10408936
+- Justdial Fatehpur, Gaya restaurant directory (search result; includes local Fatehpur listings such as Aarohi Restaurant, Nonveg King and Delhi Darbar Fast Food): https://www.justdial.com/Gaya/Restaurants-in-Fatehpur/nct-10408936
+- Mindtrip Aarohi Restaurant profile (lists business website aarohirestaurant.ezoshop.in; linked shop URL inaccessible, so Aarohi was held out pending audit): https://mindtrip.ai/restaurant/bihar/aarohi-restaurant/re-TEIuFAOY
+- AlwaysDial Delhi Darbar Fast Food directory profile (generic booking claim, no services listed; direct open returned 403): https://alwaysdial.com/delhi-darbar-fast-food
 
 ## Google Maps search links
-- Bharti Food Palaza: https://www.google.com/maps/search/?api=1&query=Bharti+Food+Palaza+Eru+Wazirganj+Gaya+Bihar+805131
+- Nonveg king: https://www.google.com/maps/search/?api=1&query=Nonveg+King+J6P9%2B7V6+Fateh+Pur+Pakri+Gaya+Bihar
+- Delhi Darbar Fast Food: https://www.google.com/maps/search/?api=1&query=Delhi+Darbar+Fast+Food+097+Main+Road+near+Shiv+Mandir+Dumari+Chati+Gaya+Bihar
+- Sanjay Misthan Bhandar: https://www.google.com/maps/search/?api=1&query=Sanjay+Misthan+Bhandar+Fatehpur+Gaya+Bihar+824232
 - Food King a family restaurant: https://www.google.com/maps/search/?api=1&query=Food+King+a+family+restaurant+near+Nahar+Road+Wazirganj+Gaya+Bihar
-- Mahadev family resturent: https://www.google.com/maps/search/?api=1&query=Mahadev+Family+Restaurant+Wazirganj+Gaya+Bihar+805131
-- Saas Bahu Family Dhaba & Restaurant: https://www.google.com/maps/search/?api=1&query=Saas+Bahu+Family+Dhaba+Restaurant+Q5WX%2B9JC+Eru+Wazirganj+Bihar
-- Sonu Fast Food Corner: https://www.google.com/maps/search/?api=1&query=Sonu+Fast+Food+Corner+Sinha+Colony+near+Shiv+Mandir+Punawa+Wazirganj+Gaya
+- Bharti Food Palaza: https://www.google.com/maps/search/?api=1&query=Bharti+Food+Palaza+Eru+Wazirganj+Gaya+Bihar+805131
 
-Targeted exact-name searches combining each business name with official website, Facebook and Instagram terms did not surface confirmed owner-controlled pages or usable direct ordering/booking URLs. Directory listings are not counted as official websites.
+Targeted exact-name searches for official domains and business-controlled Facebook/Instagram accounts did not surface confirmed owner-controlled pages for the five qualified prospects. Directory listings are not counted as official websites.
