@@ -1,16 +1,16 @@
 # Gaya restaurant prospect report — 26 November 2026 (Batch 15)
 
 ## Search scope and duplicate control
-Research was centred on the approximate Dhanheta / Tan Kuppa reference, then expanded one nearby ring into the adjacent Fatehpur–Wazirganj corridor where local listing coverage was thin. No precise home GPS or measured distances are claimed. Closer Fatehpur / Pakri / Dumari Chati candidates are listed first.
+Research was centred on the approximate Dhanheta / Tan Kuppa reference, then expanded one nearby ring into the adjacent Fatehpur–Wazirganj corridor where local listing coverage was thin. No precise home GPS or measured distances are claimed. Fateh Pur / Pakri and Dumari Chati candidates are listed first, followed by nearby Wazirganj / Eru businesses.
 
-Duplicate checking reviewed tracked AI Skills World prospect folders dated 13–25 November 2026, including Batch 14. None of the five selected names below appears in those tracked reports. Previously tracked Shrawan Fast & Food Restaurant and Kitam Kittu Hot Food were excluded.
+Duplicate checking reviewed the tracked AI Skills World prospect folders dated 13–25 November 2026, including Batch 14. None of the five names below appears in those tracked reports. Previously tracked Shrawan Fast & Food Restaurant and Kitam Kittu Hot Food were excluded.
 
 Targeted exact-name searches for official websites and business-controlled Facebook/Instagram accounts did not surface confirmed owner-controlled pages for these five. Directory listings are not counted as official websites. No owner-controlled ordering or booking workflow was verified. This is a search-based audit, not a guarantee that no unindexed or private page exists.
 
 ## Qualified prospects
 
 ### 1. Nonveg king
-- Category: Family restaurant; non-vegetarian focus suggested by name, not a verified menu.
+- Category: Family restaurant; non-vegetarian focus is suggested by the name, not a verified menu.
 - Address: J6P9+7V6, Fateh Pur, Pakri, Bihar 824232, India.
 - Public phone: +91 62009 15486.
 - Google business listing: 4.4/5, 5 reviews.
@@ -33,17 +33,17 @@ Targeted exact-name searches for official websites and business-controlled Faceb
 - Owner confirmation: Exact name/address pin, phone/WhatsApp, menu/prices, hours, service modes and whether any booking/order process actually exists.
 - Demo: delhi-darbar-fast-food-dumari-chati/index.html
 
-### 3. Sanjay Misthan Bhandar
-- Category: Sweets & snacks; Google business category is Restaurant. Dine-in status is unconfirmed.
-- Address: Fatehpur, Gaya, Bihar 824232, India; exact shop address not surfaced.
-- Public phone: +91 70507 78575.
-- Google business listing: 4.8/5, 35 reviews.
-- Hours: Daily 6:00 AM–10:00 PM on the surfaced business listing; confirm with owner.
-- Positioning: Sweets-and-snacks business in Fatehpur. Public reviews mention sweets, taste and courteous service; specific products are not verified.
-- Website audit: No complete official website, confirmed owner-controlled social page or usable direct ordering/booking site surfaced.
+### 3. Mahadev family resturent
+- Category: Family restaurant.
+- Address: Wazirganj, Gaya, Bihar 805131, India.
+- Public phone: +91 62004 47947.
+- Google business listing: 4.1/5, 55 reviews.
+- Hours: Daily 11:00 AM–12:00 AM on the surfaced business listing; confirm with owner.
+- Positioning: Local roadside family restaurant. Directory information mentions dine-in, delivery, vegetarian/vegan options, kids' menu and a high chair, but these services and amenities are not owner-confirmed. Public feedback is mixed, so the demo avoids promotional quality or hygiene claims.
+- Website audit: No complete official website, confirmed official social account or usable direct ordering/booking site surfaced. Third-party directory profiles are not official websites.
 - Confidence: Medium.
-- Owner confirmation: Exact shop address, whether dine-in exists or takeaway-only, current sweets/snacks range and prices, bulk orders, hours and photos.
-- Demo: sanjay-misthan-bhandar-fatehpur/index.html
+- Owner confirmation: Exact street address/pin, current menu/prices, dietary options, kids' menu/high chair, service modes, hours and photos.
+- Demo: mahadev-family-restaurant-wazirganj/index.html
 
 ### 4. Food King a family restaurant
 - Category: Biryani restaurant / family restaurant.
@@ -70,14 +70,15 @@ Targeted exact-name searches for official websites and business-controlled Faceb
 - Demo: bharti-food-palaza-eru/index.html
 
 ## Excluded / held for verification
-- Aarohi Restaurant, near High School, Fatehpur: a listing links to aarohirestaurant.ezoshop.in. The linked shop site could not be opened in this run, so it was held out rather than incorrectly classed as a no-website prospect.
+- Aarohi Restaurant, near High School, Fatehpur: a listing links to `aarohirestaurant.ezoshop.in`. The linked shop site could not be opened in this run, so it was held out rather than incorrectly classed as a no-website prospect.
+- Sanjay Misthan Bhandar: surfaced as a sweets/snacks business despite a Restaurant category; dine-in restaurant status was not verified, so it was not counted as a restaurant prospect.
 - Tript Restaurant (Rupin) and previously tracked Wazirganj prospects were not repeated.
 
 ## Website demo safeguards
 Five responsive HTML demos were created with distinct visual directions, SEO metadata, semantic structure, keyboard focus styles, labelled forms, Maps search links, and call/WhatsApp links only where a public phone was surfaced. Enquiry forms only prepare a WhatsApp draft for visitor review or copyable text; they do not send automatically. No fabricated menu, prices, testimonials, awards, certifications or business claims were added. Booking, payments and ordering are disabled until the owner confirms a workflow. All pages carry a visible independent-concept disclaimer and noindex/nofollow.
 
 ## Deployment
-The Netlify account is connected and six existing projects are visible. The available Netlify connector supports account/project inspection and empty project creation, but no file-upload or deploy-start operation. No empty projects were created. Each project contains netlify.toml (publish directory ., no build command). Live URLs remain pending a supported upload/deploy path or manual Netlify Drop.
+The Netlify account is connected and six existing projects are visible. The available Netlify connector supports account/project inspection and empty project creation, but no file-upload or deploy-start operation. No empty projects were created. Each project contains `netlify.toml` (publish directory `.`, no build command). Live URLs remain pending a supported upload/deploy path or manual Netlify Drop.
 
 ## Outreach
-Five personalized drafts are in outreach-drafts.md. Each labels the concept as unsolicited and independent, not official, and asks permission to discuss. No WhatsApp, Instagram DM, email or other outreach was sent.
+Five personalized drafts are in `outreach-drafts.md`. Each labels the concept as unsolicited and independent, not official, and asks permission to discuss. No WhatsApp, Instagram DM, email or other outreach was sent.
