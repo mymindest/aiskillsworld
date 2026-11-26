@@ -1,13 +1,13 @@
-# Gaya restaurant and food-business demos — 26 November 2026 (Batch 15)
+# Gaya restaurant website demos — 26 November 2026 (Batch 15)
 
-Five independent, unsolicited website concepts for businesses around Fatehpur / Dhanheta and the adjacent Wazirganj / Eru corridor in Gaya district.
+Five independent, unsolicited website concepts for businesses around Fateh Pur / Dumari Chati and the adjacent Wazirganj / Eru corridor in Gaya district.
 
 **Important:** These are not official business websites. No affiliation is implied. Owners must approve the content before any public launch.
 
 ## Projects
 - nonveg-king-fatehpur-pakri/index.html
 - delhi-darbar-fast-food-dumari-chati/index.html
-- sanjay-misthan-bhandar-fatehpur/index.html
+- mahadev-family-restaurant-wazirganj/index.html
 - food-king-family-restaurant-wazirganj/index.html
 - bharti-food-palaza-eru/index.html
 
