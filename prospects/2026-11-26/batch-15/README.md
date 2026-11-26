@@ -1,18 +1,18 @@
-# Gaya restaurant website demos — 26 November 2026 (Batch 15)
+# Gaya restaurant and food-business demos — 26 November 2026 (Batch 15)
 
-Five independent, unsolicited website concepts for local businesses around the Wazirganj / Eru / Punawa corridor of Gaya district.
+Five independent, unsolicited website concepts for businesses around Fatehpur / Dhanheta and the adjacent Wazirganj / Eru corridor in Gaya district.
 
-**Important:** These are not official restaurant websites. No affiliation is implied. The owner must approve the content before any public launch.
+**Important:** These are not official business websites. No affiliation is implied. Owners must approve the content before any public launch.
 
 ## Projects
-- bharti-food-palaza-eru/index.html
+- nonveg-king-fatehpur-pakri/index.html
+- delhi-darbar-fast-food-dumari-chati/index.html
+- sanjay-misthan-bhandar-fatehpur/index.html
 - food-king-family-restaurant-wazirganj/index.html
-- mahadev-family-restaurant-wazirganj/index.html
-- saas-bahu-family-dhaba-eru/index.html
-- sonu-fast-food-corner-punawa/index.html
+- bharti-food-palaza-eru/index.html
 
 ## Safeguards
-No fabricated menu, prices, testimonials, awards, certifications or business claims. No online ordering, payment or booking. Contact buttons use only surfaced public phone numbers; WhatsApp registration needs owner confirmation. Enquiry forms prepare a draft or copyable text only and do not send automatically. All pages use noindex,nofollow until owner approval.
+No fabricated menu, prices, testimonials, awards, certifications or business claims. No online ordering, payments or bookings. Call/WhatsApp links use only public numbers surfaced in listings; WhatsApp registration still needs owner confirmation. Enquiry forms prepare a draft or copyable text only and do not send automatically. All pages use noindex,nofollow until owner approval. Each project includes netlify.toml with publish directory . and no build command.
 
 ## Netlify
-The account is connected, but the available connector has no upload/deploy-start action. Live URLs are pending. Each project contains netlify.toml with publish directory . and no build command. Manual deployment: extract one project folder and upload it at https://app.netlify.com/drop, then verify the generated URL before sharing.
+The Netlify account is connected, but the available connector has no upload/deploy-start action. Live URLs are pending. Manual deployment: extract one project folder and upload it at https://app.netlify.com/drop, then verify the generated URL before sharing.
